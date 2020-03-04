@@ -1,0 +1,14 @@
+D:\PRACTICE\VS2019\signalrsample\bin\Debug\netcoreapp2.2\signalrsample.deps.json
+D:\PRACTICE\VS2019\signalrsample\bin\Debug\netcoreapp2.2\signalrsample.runtimeconfig.json
+D:\PRACTICE\VS2019\signalrsample\bin\Debug\netcoreapp2.2\signalrsample.runtimeconfig.dev.json
+D:\PRACTICE\VS2019\signalrsample\bin\Debug\netcoreapp2.2\signalrsample.dll
+D:\PRACTICE\VS2019\signalrsample\bin\Debug\netcoreapp2.2\signalrsample.pdb
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.csprojAssemblyReference.cache
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.csproj.CoreCompileInputs.cache
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.RazorAssemblyInfo.cache
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.RazorAssemblyInfo.cs
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.AssemblyInfoInputs.cache
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.AssemblyInfo.cs
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.RazorTargetAssemblyInfo.cache
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.dll
+D:\PRACTICE\VS2019\signalrsample\obj\Debug\netcoreapp2.2\signalrsample.pdb
