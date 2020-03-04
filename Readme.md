@@ -2,18 +2,18 @@
 
 ## How to setup project:
 
-1. Clone the repository. Repository contains both .Netcore and AngularApp
+### Clone the repository. Repository contains both .Netcore and AngularApp
 
-2. Open .Netcore solution in one instance of VSCODE
-	- Open terminal window of VSCODE and run the following commands
-		a) dotnet restore (For restoring packages).
-		b) dotnet build   (For building solution).
-		c) dotnet run     (For run the application).
+### Open .Netcore solution in one instance of VSCODE
+	**- Open terminal window of VSCODE and run the following commands**
+		- dotnet restore (For restoring packages).
+		- dotnet build   (For building solution).
+		- dotnet run     (For run the application).
 		
-3. Open AngularApp and another on instance of VSCODE.
-	- Open terminal window of VSCODE and run the following commands
-		a) npm install (For installing packages mentioned in package.json).
-		b) ng serve -o (For serving application with flage "o" to open it on default browser).
+### Open AngularApp and another on instance of VSCODE.
+	**- Open terminal window of VSCODE and run the following commands**
+		- npm install (For installing packages mentioned in package.json).
+		- ng serve -o (For serving application with flage "o" to open it on default browser).
 		
 		
 ## How to check output
